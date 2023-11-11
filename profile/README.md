@@ -29,6 +29,7 @@ All documentation regarding the current state and development of RevMetrix can b
 -----
 
 ### The Team
+
 <img width="50%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
 
 The project has been split up into 3 subteams which are the Simulation / Graphics team, the Frontend Development team, and the Backend Development team.  More on these teams can be found throughout the [documentation](https://docs.revmetrix.io/) for the project, and each member's GitHub profile can be found below:
