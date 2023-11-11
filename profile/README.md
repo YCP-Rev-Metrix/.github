@@ -31,8 +31,6 @@ All documentation regarding the current state and development of RevMetrix can b
 ### The Team
 The project has been split up into 3 subteams which are the Simulation / Graphics team, the Frontend Development team, and the Backend Development team.  More on these teams can be found throughout the [documentation](https://docs.revmetrix.io/) for the project, and each member's GitHub profile can be found below:
 
------
-
 #### Faculty Contributors
   - [Professor Donald Hake II](https://github.com/DonaldHakeII)
   - [Dr. David Babcock](https://github.com/dbabcock)
