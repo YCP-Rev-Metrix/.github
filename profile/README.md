@@ -1,4 +1,5 @@
-# Welcome to RevMetrix
+<h1 align="center">Welcome to RevMetrix</h1>
+
 <p align="center">
     <img width="200" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/static/images/logo.png">
 </p>
@@ -13,8 +14,7 @@ RevMetrix has been introduced as the newest Capstone project at [York College of
 #### SmartDot Module
   - A small device that can be placed under the finger insert of a bowling ball
   - Has a 3-axis accelerometer and an ambient light sensor to record data about the rotation of the ball as it travels down the lane
-  - [Thesis](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project/Hake-MEngESci-Masters-Thesis.pdf)
-  - [Presentation](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project/Hake-MEngESci-Masters-Defense-Presentation.pdf)
+  - Professor Hake's Masters [thesis](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project/Hake-MEngESci-Masters-Thesis.pdf) and [presentation](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project/Hake-MEngESci-Masters-Defense-Presentation.pdf)
 
 -----
 
@@ -36,6 +36,7 @@ The project has been split up into 3 subteams which are the Simulation / Graphic
 #### Faculty Contributors
   - [Professor Donald Hake II](https://github.com/DonaldHakeII)
   - [Dr. David Babcock](https://github.com/dbabcock)
+<img width="70%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
 
 #### Student Contributors
   - Simulation / Graphics Team:
@@ -43,8 +44,6 @@ The project has been split up into 3 subteams which are the Simulation / Graphic
     - [Bryce Neptune](https://github.com/bneptune42)
     - [Enoch Sam](https://github.com/EnochSam)
     - [Ian Vivieros](https://github.com/ianvivi13)
-
-<img width="55%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
 
   - Frontend Development Team:
     - [Theodore Bloomquist](https://github.com/thbloomquist)
