@@ -6,11 +6,11 @@
 ### About The Project
 RevMetrix has been introduced as the newest Capstone project at [York College of Pennsylvania](https://ycp.edu/) as of the Fall 2023 semester.  The project will consist of a mobile application and a hardware module that are combined to record the statistics of a bowler's throws and provide feedback to the bowler.  The mobile application will implement a newer version of Dr. David Babcock's "Ciclopes" program, and the hardware module is going to be an updated and improved version of Professor Donald Hake II's SmartDot Module.  More on these two main components can be seen below:
 
-##### Ciclopes
+#### Ciclopes
   - A software that tracks the path of a shot and visualizes the path for post-session analysis
   - Calculates and returns statistics of a shot and the ball information for a frame
 
-##### SmartDot Module
+#### SmartDot Module
   - A small device that can be placed under the finger insert of a bowling ball
   - Has a 3-axis accelerometer and an ambient light sensor to record data about the rotation of the ball as it travels down the lane
   - [Thesis](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project/Hake-MEngESci-Masters-Thesis.pdf)
@@ -26,11 +26,14 @@ All documentation regarding the current state and development of RevMetrix can b
 ### Contact Info
  - 📧 Organization Email: <a href="mailto:info@revmetrix.io">info@revmetrix.io</a>
  
+-----
 
 ### The Team
-<img width="45%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
+<img width="50%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
 
 The project has been split up into 3 subteams which are the Simulation / Graphics team, the Frontend Development team, and the Backend Development team.  More on these teams can be found throughout the [documentation](https://docs.revmetrix.io/) for the project, and each member's GitHub profile can be found below:
+
+-----
 
 ##### Faculty Contributors
   - [Professor Donald Hake II](https://github.com/DonaldHakeII)
