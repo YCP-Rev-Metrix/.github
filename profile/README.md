@@ -32,26 +32,26 @@ All documentation regarding the current state and development of RevMetrix can b
 The project has been split up into 3 subteams which are the Simulation / Graphics team, the Frontend Development team, and the Backend Development team.  More on these teams can be found throughout the [documentation](https://docs.revmetrix.io/) for the project, and each member's GitHub profile can be found below:
 
 #### Faculty Contributors
-  - [Professor Donald Hake II](https://github.com/DonaldHakeII)
-  - [Dr. David Babcock](https://github.com/dbabcock)
+   - [Professor Donald Hake II](https://docs.revmetrix.io/more/members/donald-hake-ii/index.html)
+   - [Dr. David Babcock](https://docs.revmetrix.io/more/members/david-babcock/index.html)
 <img width="70%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
 
 #### Student Contributors
-  - Simulation / Graphics Team:
-    - [Luke Dodson](https://github.com/5ldodson5)
-    - [Bryce Neptune](https://github.com/bneptune42)
-    - [Enoch Sam](https://github.com/EnochSam)
-    - [Ian Vivieros](https://github.com/ianvivi13)
+- Simulation / Graphics Team
+   - [Luke Dodson](https://docs.revmetrix.io/more/members/luke-dodson/index.html)
+   - [Bryce Neptune](https://docs.revmetrix.io/more/members/bryce-neptune/index.html)
+   - [Enoch Sam](https://docs.revmetrix.io/more/members/enoch-sam/index.html)
+   - [Ian Viveiros](https://docs.revmetrix.io/more/members/ian-viveiros/index.html)
 
-  - Frontend Development Team:
-    - [Theodore Bloomquist](https://github.com/thbloomquist)
-    - [Thomas Bywaters](https://github.com/tbywatersYCP)
-    - [Michael Hensel](https://github.com/mhensel1)
-    - [John Kettula](https://github.com/pack12)
-    - [Elizabeth Mains](https://github.com/lizmains)
+- Frontend Development Team
+   - [Theodore Bloomquist](https://docs.revmetrix.io/more/members/theodore-bloomquist/index.html)
+   - [Thomas Bywaters](https://docs.revmetrix.io/more/members/thomas-bywaters/index.html)
+   - [Michael Hensel](https://docs.revmetrix.io/more/members/michael-hensel/index.html)
+   - [John Kettula](https://docs.revmetrix.io/more/members/john-kettula/index.html)
+   - [Liz Mains](https://docs.revmetrix.io/more/members/liz-mains/index.html)
 
-  - Backend Developement Team:
-    - [Jordan Carvell](https://github.com/jcarvell)
-    - [Braden Fleming](https://github.com/UnicycleUnicorn)
-    - [Victor Pineda](https://github.com/vickEretus)
-    - [Robert Wood](https://github.com/robertwood68)
+- Backend Development Team
+   - [Jordan Carvell](https://docs.revmetrix.io/more/members/jordan-carvell/index.html)
+   - [Braden Fleming](https://docs.revmetrix.io/more/members/braden-fleming/index.html)
+   - [Victor Pineda](https://docs.revmetrix.io/more/members/victor-pineda/index.html)
+   - [Robert Wood](https://docs.revmetrix.io/more/members/robert-wood/index.html)
