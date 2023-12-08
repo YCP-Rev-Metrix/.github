@@ -8,11 +8,11 @@
 RevMetrix has been introduced as the newest Capstone project at [York College of Pennsylvania](https://ycp.edu/) as of the Fall 2023 semester.  The project will consist of a mobile application and a hardware module that are combined to record the statistics of a bowler's throws and provide feedback to the bowler.  The mobile application will implement a newer version of Dr. David Babcock's "Ciclopes" program, and the hardware module is going to be an updated and improved version of Professor Donald Hake II's SmartDot Module.  More on these two main components can be seen below:
 
 #### Ciclopes
-  - A software that tracks the path of a shot and visualizes the path for post-session analysis
+  - A software developed by Dr. David Babcock that tracks the path of a shot and visualizes the path for post-session analysis
   - Calculates and returns statistics of a shot and the ball information for a frame
 
 #### SmartDot Module
-  - A small device that can be placed under the finger insert of a bowling ball
+  - A small device developed by Professor Donald Hake II that can be placed under the finger insert of a bowling ball
   - Has a 3-axis accelerometer and an ambient light sensor to record data about the rotation of the ball as it travels down the lane
   - Professor Hake's Masters [thesis](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project/Hake-MEngESci-Masters-Thesis.pdf) and [presentation](https://ycpcs.github.io/cs400-fall2023/projects/RevMetrix-Project/Hake-MEngESci-Masters-Defense-Presentation.pdf)
 
