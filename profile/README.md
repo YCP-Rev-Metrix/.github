@@ -29,29 +29,48 @@ All documentation regarding the current state and development of RevMetrix can b
 -----
 
 ### The Team
-The project has been split up into 3 subteams which are the Simulation / Graphics team, the Frontend Development team, and the Backend Development team.  More on these teams can be found throughout the [documentation](https://docs.revmetrix.io/) for the project, and each member's GitHub profile can be found below:
+The project has been split up into 4 subteams which are the Backend Development team, the Ciclopes Development team, the Frontend Development team, and the Simulation Development team.  More on these teams can be found throughout the [documentation](https://docs.revmetrix.io/) for the project, and each member's GitHub profile can be found below:
 
 #### Faculty Contributors
-   - [Professor Donald Hake II](https://docs.revmetrix.io/more/members/donald-hake-ii/index.html)
-   - [Dr. David Babcock](https://docs.revmetrix.io/more/members/david-babcock/index.html)
+##### [Professor Donald Hake II](https://docs.revmetrix.io/more/members/donald-hake-ii/index.html)
+##### [Dr. David Babcock](https://docs.revmetrix.io/more/members/david-babcock/index.html)
 <img width="70%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
 
 #### Student Contributors
-- Simulation / Graphics Team
-   - [Luke Dodson](https://docs.revmetrix.io/more/members/luke-dodson/index.html)
-   - [Bryce Neptune](https://docs.revmetrix.io/more/members/bryce-neptune/index.html)
-   - [Enoch Sam](https://docs.revmetrix.io/more/members/enoch-sam/index.html)
-   - [Ian Viveiros](https://docs.revmetrix.io/more/members/ian-viveiros/index.html)
+##### [Theodore Bloomquist](https://docs.revmetrix.io/more/members/theodore-bloomquist/index.html)
+  - Ciclopes, Frontend, & Simulation Development
 
-- Frontend Development Team
-   - [Theodore Bloomquist](https://docs.revmetrix.io/more/members/theodore-bloomquist/index.html)
-   - [Thomas Bywaters](https://docs.revmetrix.io/more/members/thomas-bywaters/index.html)
-   - [Michael Hensel](https://docs.revmetrix.io/more/members/michael-hensel/index.html)
-   - [John Kettula](https://docs.revmetrix.io/more/members/john-kettula/index.html)
-   - [Liz Mains](https://docs.revmetrix.io/more/members/liz-mains/index.html)
+##### [Luke Dodson](https://docs.revmetrix.io/more/members/luke-dodson/index.html)
+  - Frontend & Simulation Development
 
-- Backend Development Team
-   - [Jordan Carvell](https://docs.revmetrix.io/more/members/jordan-carvell/index.html)
-   - [Braden Fleming](https://docs.revmetrix.io/more/members/braden-fleming/index.html)
-   - [Victor Pineda](https://docs.revmetrix.io/more/members/victor-pineda/index.html)
-   - [Robert Wood](https://docs.revmetrix.io/more/members/robert-wood/index.html)
+##### [Michael Hensel](https://docs.revmetrix.io/more/members/michael-hensel/index.html)
+  - Frontend & Simulation Development
+
+##### [Liz Mains](https://docs.revmetrix.io/more/members/liz-mains/index.html)
+  - Backend, Frontend, & Full Stack Development
+
+##### [Bryce Neptune](https://docs.revmetrix.io/more/members/bryce-neptune/index.html)
+  - Ciclopes & Simulation Development
+
+##### [Victor Pineda](https://docs.revmetrix.io/more/members/victor-pineda/index.html)
+  - Backend & Ciclopes Development
+
+##### [Enoch Sam](https://docs.revmetrix.io/more/members/enoch-sam/index.html)
+  - Simulation Development
+
+##### [Robert Wood](https://docs.revmetrix.io/more/members/robert-wood/index.html)
+  - Backend & Full Stack Development
+
+#### Alumni Contributors
+##### [Jordan Carvell](https://docs.revmetrix.io/more/members/jordan-carvell/index.html)
+   - Backend Development
+
+##### [Braden Fleming](https://docs.revmetrix.io/more/members/braden-fleming/index.html)
+   - Backend Development
+
+##### [John Kettula](https://docs.revmetrix.io/more/members/john-kettula/index.html)
+   - Frontend Development
+
+##### [Ian Viveiros](https://docs.revmetrix.io/more/members/ian-viveiros/index.html)
+   - Simulation Development
+
