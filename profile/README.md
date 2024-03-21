@@ -34,7 +34,7 @@ The project has been split up into 4 subteams which are the Backend Development 
 #### Faculty Contributors
 ##### [Professor Donald Hake II](https://docs.revmetrix.io/more/members/donald-hake-ii/index.html)
 ##### [Dr. David Babcock](https://docs.revmetrix.io/more/members/david-babcock/index.html)
-<img width="70%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
+<img width="70%" align="right" alt="Github" src="https://github.com/YCP-Rev-Metrix/Wiki/blob/main/content/Project%20Milestones/Fall%202023/MS1%20-%20Minimal%20Working%20System/MS1_Pic.jpg" />
 
 #### Student Contributors
 ##### [Theodore Bloomquist](https://docs.revmetrix.io/more/members/theodore-bloomquist/index.html)
