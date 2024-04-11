@@ -1,3 +1,6 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Welcome to RevMetrix</h1>
 
 <p align="center">
@@ -73,4 +76,5 @@ The project has been split up into 4 subteams which are the Backend Development 
 
 ##### [Ian Viveiros](https://docs.revmetrix.io/more/members/ian-viveiros/index.html)
    - Simulation Development
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
