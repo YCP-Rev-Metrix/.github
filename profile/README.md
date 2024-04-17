@@ -41,7 +41,7 @@ The project has been split up into 4 subteams which are the Backend Development 
 
 #### Student Contributors
 ##### [Theodore Bloomquist](https://docs.revmetrix.io/more/members/theodore-bloomquist/index.html)
-  - Ciclopes, Frontend, & Simulation Development
+  - Ciclopes & Frontend Development
 
 ##### [Luke Dodson](https://docs.revmetrix.io/more/members/luke-dodson/index.html)
   - Frontend & Simulation Development
@@ -50,7 +50,7 @@ The project has been split up into 4 subteams which are the Backend Development 
   - Frontend & Simulation Development
 
 ##### [Liz Mains](https://docs.revmetrix.io/more/members/liz-mains/index.html)
-  - Backend, Frontend, & Full Stack Development
+  - Frontend Development
 
 ##### [Bryce Neptune](https://docs.revmetrix.io/more/members/bryce-neptune/index.html)
   - Ciclopes & Simulation Development
